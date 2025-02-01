@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "d65d1f4e3f3b0b3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "738733d327063d5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad90b6657482a943",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index/C sharp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C sharp"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4eecb0738c3c32a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2335692432d42517",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8182175182b95806",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "30ce9ec4afe82196",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "22d2b77150f258be",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f91025eb61528350",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c4276e13c2a6e8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb8084bead73a91c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Index/C sharp.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for C sharp"
+            }
+          },
+          {
+            "id": "9a2b90a219dce51d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Index/C sharp.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from C sharp"
+            }
+          },
+          {
+            "id": "7f75cd6600a3dbbd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d96678f66351d06d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Index/C sharp.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of C sharp"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ad90b6657482a943",
+  "lastOpenFiles": [
+    "main notes/Changing the data types - C sharp.md",
+    "Index/C sharp.md",
+    "main notes/Substring() - C sharp.md",
+    "main notes/Property - C sharp.md",
+    "main notes/ToCharArray() - C sharp.md",
+    "main notes/Sring operations - C sharp.md",
+    "main notes/Variable naming - C sharp.md",
+    "main notes/ToLower() - C sharp.md",
+    "main notes/Tips - C sharp.md",
+    "main notes/Ternary Conditional Operation - C sharp.md",
+    "main notes/Split() - C sharp.md",
+    "main notes/Sort() and Reverse() - C sharp.md",
+    "main notes/Scope - C sharp.md",
+    "main notes/Resize() - C sharp.md",
+    "main notes/Replace() - C sharp.md",
+    "main notes/Remove() - C charp.md",
+    "main notes/Polymorphism - C sharp.md",
+    "main notes/Method Parameters - C sharp.md",
+    "main notes/Method Overloading - C sharp.md",
+    "main notes/Making string from Array - C sharp.md",
+    "main notes/join() - C sharp.md",
+    "main notes/Inheritance - C sharp.md",
+    "main notes/IndexOf(), LastIndexOf() and IndexOfAny() - C sharp.md",
+    "main notes/How to implement a method - C sharp.md",
+    "main notes/How to call a method - C sharp.md",
+    "main notes/foreach - C sharp.md",
+    "main notes",
+    "New folder",
+    "Index"
+  ]
+}
