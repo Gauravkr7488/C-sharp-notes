@@ -25,7 +25,7 @@
 22. [[Remove() - C charp]]
 23. [[Replace() - C sharp]]
 24. [[Scope - C sharp]]
-25. Lists - C sharp ==TODO== 
+25. [[Lists - C sharp]] 
 26. [[Method Parameters - C sharp]]
 27. [[Method Overloading - C sharp]]
 28. [[Class and Object - C sharp]]
@@ -38,4 +38,4 @@
 35. [[enum - C sharp]]
 36. [[File IO - c sharp]]
 37. [[Exceptions (try, catch and finally) - C sharp]] 
-38. Extention Method - C sharp ==TODO== 
+38. [[Extention Method - C sharp]]
